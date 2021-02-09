@@ -4,7 +4,7 @@ This is an GameBoy game that I created using [GBDK-2020](https://github.com/Zal0
 
 ## Controls
 
-Up/Down - Move
+Up/Down - Move paddle (Hold B to move faster)
 
 A - Start game
 
